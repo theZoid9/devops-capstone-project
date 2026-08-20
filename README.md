@@ -1,5 +1,8 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/theZoid/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
+
 This project is a DevOps capstone project demonstrating the use of DevOps practices, including version control, automation, continuous integration, testing, and deployment.
 
 # DevOps Capstone Template
